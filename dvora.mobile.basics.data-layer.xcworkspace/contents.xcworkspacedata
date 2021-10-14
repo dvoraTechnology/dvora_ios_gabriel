@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:dvora.mobile.manager.data-layer/dvora.mobile.manager.data-layer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:dvora.mobile.basics.data-layer/dvora.mobile.basics.data-layer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:dvora.mobile.basics.data-layer.construct/dvora.mobile.basics.data-layer.construct.xcodeproj">
+   </FileRef>
+</Workspace>

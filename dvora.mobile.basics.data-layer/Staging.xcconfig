@@ -1,0 +1,15 @@
+//
+//  Staging.xcconfig
+//  dvora.mobile.basics.data-layer
+//
+//  Created by Gabriel Armando Prieto on 7/10/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL_SECURE = 1
+API_URL_STRING = api-staging.dvoraliving.com/api/v3/
+PLACE_PUBLIC_TOKEN = test_public_key_dcClNuhR1cVagjOigSqL-zEV
+PLACE_PUBLIC_KEY = test_public_key_dcClNuhR1cVagjOigSqL-zEV
+MIXPANEL_TOKEN = 3e7ae995b98fd9f9680956577cc8be18

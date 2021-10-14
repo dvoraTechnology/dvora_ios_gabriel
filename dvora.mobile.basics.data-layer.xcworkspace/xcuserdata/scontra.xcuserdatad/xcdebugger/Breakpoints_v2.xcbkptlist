@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "58807C10-D906-43BB-B838-D550FD9AB46F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82F3BA41-35D7-4FBA-8B2C-EE39D3656753"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dvora.mobile.basics.data-layer/Core.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "login(_:_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82F3BA41-35D7-4FBA-8B2C-EE39D3656753 - 84ddbade5190f2ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;dvora_mobile_basics_data_layer.LoginResponse&gt;, dvora_mobile_basics_data_layer.ErrorHandler&gt;) -&gt; () in static dvora_mobile_basics_data_layer.Core.login(Swift.String, Swift.String, (dvora_mobile_basics_data_layer.User) -&gt; (), (Swift.String) -&gt; (), () -&gt; ()) -&gt; ()"
+                  moduleName = "dvora_mobile_basics_data_layer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scontra/Documents/Proyectos/dvora/Prototype/dvora.mobile.basics.data-layer/Core.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+               <Location
+                  uuid = "82F3BA41-35D7-4FBA-8B2C-EE39D3656753 - 8c4cacf80e12a0fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;dvora_mobile_basics_data_layer.LoginResponse&gt;, dvora_mobile_basics_data_layer.ErrorHandler&gt;) -&gt; () in static dvora_mobile_basics_data_layer.Core.login(Swift.String, Swift.String, (dvora_mobile_basics_data_layer.LoginResponse) -&gt; (), (Swift.String) -&gt; (), () -&gt; ()) -&gt; ()"
+                  moduleName = "dvora_mobile_basics_data_layer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scontra/Documents/Proyectos/dvora/Prototype/dvora.mobile.basics.data-layer/Core.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0BA90BF-12AA-40CE-A949-8E468D9EC879"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dvora.mobile.manager.data-layer/dvora.mobile.manager.data-layer/Core.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "login(email:password:onSuccess:onError:onChangePassword:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0BA90BF-12AA-40CE-A949-8E468D9EC879 - bf11f6abfcc5d382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (dvora_mobile_basics_data_layer.LoginResponse) -&gt; () in static dvora_mobile_manager_data_layer.Core.login(email: Swift.String, password: Swift.String, onSuccess: (dvora_mobile_basics_data_layer.User) -&gt; (), onError: (Swift.String) -&gt; (), onChangePassword: () -&gt; ()) -&gt; ()"
+                  moduleName = "dvora_mobile_manager_data_layer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scontra/Documents/Proyectos/dvora/Prototype/dvora.mobile.manager.data-layer/dvora.mobile.manager.data-layer/Core.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "A0BA90BF-12AA-40CE-A949-8E468D9EC879 - bf11f6abfcc5d382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (dvora_mobile_basics_data_layer.LoginResponse) -&gt; () in static dvora_mobile_manager_data_layer.Core.login(email: Swift.String, password: Swift.String, onSuccess: (dvora_mobile_basics_data_layer.User) -&gt; (), onError: (Swift.String) -&gt; (), onChangePassword: () -&gt; ()) -&gt; ()"
+                  moduleName = "dvora_mobile_manager_data_layer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scontra/Documents/Proyectos/dvora/Prototype/dvora.mobile.manager.data-layer/dvora.mobile.manager.data-layer/Core.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

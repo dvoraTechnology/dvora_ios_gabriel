@@ -1,0 +1,15 @@
+//
+//  Develop.xcconfig
+//  dvora.mobile.basics.data-layer
+//
+//  Created by Gabriel Armando Prieto on 7/10/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL_SECURE = 0
+API_URL_STRING = api-development.dvoraliving.com/api/v3/
+PLACE_PUBLIC_TOKEN = test_public_key_dcClNuhR1cVagjOigSqL-zEV
+PLACE_PUBLIC_KEY = test_public_key_dcClNuhR1cVagjOigSqL-zEV
+MIXPANEL_TOKEN = a87de6d34117699bf1c37c2e1a5c9400
